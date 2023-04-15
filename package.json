@@ -1,0 +1,26 @@
+{
+  "name": "country-flags",
+  "version": "4.2.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run serve",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "store2": "^2.12.0",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-service": "^3.9.0",
+    "babel-plugin-import": "^1.13.5",
+    "sass": "~1.19.0",
+    "sass-loader": "~8.0.0",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "license": "MIT",
+  "main": "index.js"
+}
